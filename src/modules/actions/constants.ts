@@ -1,0 +1,16 @@
+
+export const GET_DATA         = 'GET_DATA';
+export const GET_DATA_SUCCESS = 'GET_DATA_SUCCESS';
+export const GET_DATA_FAILED  = 'GET_DATA_FAILED';
+
+export const LOGIN_REQUEST    = 'LOGIN_REQUEST';
+export const LOGIN_SUCCESS    = 'LOGIN_SUCCESS';
+export const LOGIN_FAILED     = 'LOGIN_FAILED';
+
+export const REGISTER_REQUEST    = 'REGISTER_REQUEST';
+export const REGISTER_SUCCESS    = 'REGISTER_SUCCESS';
+export const REGISTER_FAILED     = 'REGISTER_FAILED';
+
+export const CHANGE_PASS_REQUEST    = 'CHANGE_PASS_REQUEST';
+export const CHANGE_PASS_SUCCESS    = 'CHANGE_PASS_SUCCESS';
+export const CHANGE_PASS_FAILED     = 'CHANGE_PASS_FAILED';
